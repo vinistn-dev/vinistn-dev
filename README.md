@@ -4,22 +4,12 @@
 
 Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apaixonado por tecnologia e Desenvolvo WebSites do Inicio ao Fim. Veja alguns dos meus Trabalhos em "[Webdev-vinistn](https://www.instagram.com/vinistn-dev/)".
 
-<p align="left">
-    <!-- Instagram -->
-    [![Instagram](https://custom-icon-badges.demolab.com/instagram/follow/vinistn-dev?color=%23E4405F&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/vinistn_dev)
-
-    <!-- GitHub Repositories -->
-    [![GitHub Repositories](https://custom-icon-badges.demolab.com/github/repositories/vinistn-dev?color=%2369C8F9&label=Repositórios&logo=github&logoColor=white&style=for-the-badge)](https://github.com/vinistn-dev?tab=repositories)
-
-    <!-- GitHub Stars -->
-    [![Total de estrelas](https://custom-icon-badges.demolab.com/github/stars/vinistn-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/vinistn-dev?tab=repositories&sort=stargazers)
-
-    <!-- GitHub Followers -->
-    [![Seguidores](https://custom-icon-badges.demolab.com/github/followers/vinistn-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/vinistn-dev?tab=followers)
-</p>
+### 🌎 **Redes Sociais**
+[![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinistn_dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinistn-dev)
 
 
-----
+-----
 
 ### 🤖 Linguagens e Tecnologias
 
