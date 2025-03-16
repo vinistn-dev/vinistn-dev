@@ -1,23 +1,59 @@
-## Olá, eu sou o Vinícius 👨‍💻
+# Olá, eu sou o Vinícius 👨‍💻
 
-Sou um desenvolvedor Full Stack apaixonado por criar experiências digitais completas, desde o design até a implementação. Tenho experiência no desenvolvimento de sites e aplicações do zero, utilizando as melhores práticas de desenvolvimento, e sempre me atualizando com as tecnologias mais modernas.
+Desenvolvedor **Full Stack** apaixonado por criar sites e aplicações do início ao fim. Com foco em soluções eficientes e de alto desempenho, sempre busco entregar produtos com boa escalabilidade, usabilidade e design impecável.
 
-Atualmente, sou especialista em:
+### 🚀 Tecnologias que utilizo:
 
-- **Front-End**: HTML, CSS, JavaScript, React, Vue.js
-- **Back-End**: Node.js, Express, PHP, Ruby on Rails, Python (Django/Flask)
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB, Firebase
-- **Versionamento**: Git, GitHub
-- **Ferramentas**: Docker, Kubernetes, Webpack, Jenkins
-- **Outras Tecnologias**: GraphQL, REST APIs, WebSockets, Firebase, AWS, Heroku, CI/CD
-- **Design**: Figma, Adobe XD, Sketch, Tailwind CSS
+#### **Front-End**
+- **HTML5**, **CSS3**, **JavaScript**
+- Frameworks: **React.js**, **Vue.js**, **Angular**
+- Pré-processadores: **SASS**, **LESS**
+- Design Responsivo: **Tailwind CSS**, **Bootstrap**
 
-Combinando design e funcionalidade, meu objetivo é sempre entregar soluções eficientes e de alta performance, criando sites responsivos, escaláveis e com ótimo desempenho.
+#### **Back-End**
+- **Node.js** + **Express.js**
+- **Python** (Django, Flask)
+- **PHP** (Laravel)
+- **Ruby on Rails**
+- **Java** (Spring Boot)
 
-Aqui no GitHub, compartilho projetos e contribuições que refletem minha dedicação ao desenvolvimento. Não hesite em se conectar!
+#### **Banco de Dados**
+- Relacional: **MySQL**, **PostgreSQL**
+- NoSQL: **MongoDB**, **Firebase**
 
-📫 Contato: vinistn.vsc@gmail.com
+#### **Outras Tecnologias**
+- **GraphQL**, **REST APIs**
+- **Docker**, **Kubernetes**
+- **AWS**, **Heroku**, **Firebase**
+- **Git**, **GitHub**, **CI/CD** (Jenkins, GitHub Actions)
+
+#### **Ferramentas de Design**
+- **Figma**, **Adobe XD**, **Sketch**
 
 ---
 
+## 💡 O que me motiva?
+Construir soluções que ajudem empresas e indivíduos a alcançar seus objetivos online. Tenho um foco constante em melhorar o desempenho, a experiência do usuário e a manutenção de sistemas escaláveis.
+
+---
+
+### 📊 Estatísticas
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinistn-dev&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+---
+
+### 📫 Vamos conversar!
+Você pode me encontrar em:
+
+- **Email**: [vinistn.vsc@gmail.com](mailto:vinistn.vsc@gmail.com)
+- **LinkedIn**: [linkedin.com/in/vinistn-dev](https://www.linkedin.com/in/vinistn-dev)
+- **Website**: [vinistn.dev](https://vinistn.dev) (em breve)
+
+---
+
+**🛠️ Projetos Recentes:**
+
+- [Projeto 1](https://github.com/vinistn-dev/projeto1) - Descrição do projeto.
+- [Projeto 2](https://github.com/vinistn-dev/projeto2) - Descrição do projeto.
+
