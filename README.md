@@ -4,7 +4,7 @@
 
 Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apaixonado por tecnologia e Desenvolvo WebSites do Início ao Fim. Veja alguns dos meus Trabalhos em:
 
-[![Website](https://custom-icon-badges.demolab.com/badge/-Webdev-vinistn-0A66C2?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/vinistn-dev/)
+[![Website](https://custom-icon-badges.demolab.com/badge/-site-0A66C2?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/vinistn-dev/)
 
 ### 🌎 **Redes Sociais**
 <p align="left">
