@@ -15,9 +15,9 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
     </a>
     <a href="https://github.com/vinistn-dev">
         <img 
-            alt="Contribuições" 
-            title="Minhas contribuições no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/commit-activity/m/vinistn-dev?color=E1AD0E&logo=git&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Commits Recentes" 
+            title="Atividade de commits no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/last-commit/vinistn-dev/vinistn-dev?color=E1AD0E&logo=git&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/vinistn-dev?tab=repositories&sort=stargazers">
