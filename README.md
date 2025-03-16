@@ -80,7 +80,7 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
         <img 
             alt="E-mail" 
             title="Enviar um E-mail"
-            src="https://custom-icon-badges.demolab.com/badge/-E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://wa.me/5511999999999" target="_blank">
