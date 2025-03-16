@@ -32,9 +32,15 @@ Sou um desenvolvedor **Full Stack** focado em criar websites completos e funcion
 
 ---
 
-### 📊 **Estatísticas GitHub**
+### 📊 **Estatísticas GitHub e Linguagens mais utilizadas**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinistn-dev&show_icons=true&hide_title=true&count_private=true&theme=midnight-purple)
+<div style="display: flex; gap: 20px;">
+  <!-- Estatísticas do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vinistn-dev&show_icons=true&hide_title=true&count_private=true&theme=midnight-purple" />
+  
+  <!-- Linguagens mais utilizadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinistn-dev&layout=compact&theme=midnight-purple" />
+</div>
 
 ---
 
