@@ -41,7 +41,7 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,ts,react,figma,nodejs,nextjs,laravel,git,bootstrap" />
   </a>
 </p>
 
