@@ -5,7 +5,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=vinistn-dev&show_icons=true"
-    media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: midnight-purple)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vinistn-dev&show_icons=true" />
 </picture>
