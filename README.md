@@ -4,7 +4,43 @@
 
 Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apaixonado por tecnologia e Desenvolvo WebSites do Inicio ao Fim. Veja alguns dos meus Trabalhos em "[Webdev-vinistn](https://www.instagram.com/vinistn-dev/)".
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<p align="left">
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/vinistn_dev">
+        <img 
+            alt="Instagram"
+            title="Siga-me no Instagram"
+            src="https://custom-icon-badges.demolab.com/instagram/follow/vinistn-dev?color=%23E4405F&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge"
+        />
+    </a>
+
+    <!-- GitHub Repositories -->
+    <a href="https://github.com/vinistn-dev?tab=repositories">
+        <img 
+            alt="GitHub Repositories"
+            title="Meus Repositórios no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/repositories/vinistn-dev?color=%2369C8F9&label=Repositórios&logo=github&logoColor=white&style=for-the-badge"
+        />
+    </a>
+
+    <!-- GitHub Stars -->
+    <a href="https://github.com/vinistn-dev?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/vinistn-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+
+    <!-- GitHub Followers -->
+    <a href="https://github.com/vinistn-dev?tab=followers">
+        <img 
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/vinistn-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 
 ----
