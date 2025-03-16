@@ -6,7 +6,7 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-site-0A66C2?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/vinistn-dev/)
 
-### 🌎 **Redes Sociais**
+### 🌎 **Conquistas no GitHub**
 <p align="left">
     </a>
     <a href="https://github.com/vinistn-dev">
@@ -68,7 +68,7 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
 
 -----
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Habilidades
 
 <p align="center">
   <a href="https://skillicons.dev">
