@@ -6,7 +6,6 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-Webdev-vinistn-0A66C2?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/vinistn-dev/)
 
-
 ### 🌎 **Redes Sociais**
 <p align="left">
     <a href="https://www.instagram.com/vinistn_dev">
@@ -39,8 +38,6 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
     </a>
 </p>
 
-
-
 -----
 
 ### 🤖 Linguagens e Tecnologias
@@ -72,4 +69,32 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinistn-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
+
+-----
+
+### 📬 **Contato**
+
+<p align="left">
+    <a href="mailto:vinistn.dev@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Enviar um E-mail"
+            src="https://custom-icon-badges.demolab.com/badge/-E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://wa.me/5511999999999" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Me envie uma mensagem no WhatsApp"
+            src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/vinistn-dev/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
