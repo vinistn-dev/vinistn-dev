@@ -8,12 +8,6 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
 
 ### 🌎 **Redes Sociais**
 <p align="left">
-    <a href="https://www.instagram.com/vinistn_dev">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
     </a>
     <a href="https://github.com/vinistn-dev">
         <img 
@@ -50,6 +44,12 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
             src="https://custom-icon-badges.demolab.com/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/vinistn_dev">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
     <a href="https://wa.me/5511999999999" target="_blank">
         <img 
             alt="WhatsApp" 
