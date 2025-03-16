@@ -6,40 +6,16 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
 
 <p align="left">
     <!-- Instagram -->
-    <a href="https://www.instagram.com/vinistn_dev">
-        <img 
-            alt="Instagram"
-            title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/instagram/follow/vinistn-dev?color=%23E4405F&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge"
-        />
-    </a>
+    [![Instagram](https://custom-icon-badges.demolab.com/instagram/follow/vinistn-dev?color=%23E4405F&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/vinistn_dev)
 
     <!-- GitHub Repositories -->
-    <a href="https://github.com/vinistn-dev?tab=repositories">
-        <img 
-            alt="GitHub Repositories"
-            title="Meus Repositórios no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/repositories/vinistn-dev?color=%2369C8F9&label=Repositórios&logo=github&logoColor=white&style=for-the-badge"
-        />
-    </a>
+    [![GitHub Repositories](https://custom-icon-badges.demolab.com/github/repositories/vinistn-dev?color=%2369C8F9&label=Repositórios&logo=github&logoColor=white&style=for-the-badge)](https://github.com/vinistn-dev?tab=repositories)
 
     <!-- GitHub Stars -->
-    <a href="https://github.com/vinistn-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/vinistn-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+    [![Total de estrelas](https://custom-icon-badges.demolab.com/github/stars/vinistn-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/vinistn-dev?tab=repositories&sort=stargazers)
 
     <!-- GitHub Followers -->
-    <a href="https://github.com/vinistn-dev?tab=followers">
-        <img 
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/vinistn-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    [![Seguidores](https://custom-icon-badges.demolab.com/github/followers/vinistn-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/vinistn-dev?tab=followers)
 </p>
 
 
