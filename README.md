@@ -12,7 +12,7 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@vinistn-dev">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -30,7 +30,7 @@ Me chamo Vinicius Santana, tenho 21 anos e sou Desenvolvedor FullStack. Sou apai
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/vinistn-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
